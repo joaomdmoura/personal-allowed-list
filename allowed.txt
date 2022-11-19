@@ -1,0 +1,7 @@
+!
+! Title: Personal DNS allowed filters
+!
+||clearbit.io^
+||clearbit.com^
+||clearbitjs.com^
+||vpn.clearbitjs.com^
